@@ -6,8 +6,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50px"/>  
 </p>
+    
+[![](https://visitcount.itsvg.in/api?id=jenilsoni01&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in/api?id=jenilsoni01&label=Profile%20Views&color=0&pretty=false)
 
 ---
 
@@ -21,10 +23,13 @@
 ### 🛠️ Skills
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-</p>
+  </p>
 
 
 
@@ -45,9 +50,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilsoni01&show_icons=true&theme=transparent&layout=donut)
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenilsoni01&theme=transparent" alt="GitHub Streak" height="160"/>
-</p>
+  
+</div>
 
 ---
 
