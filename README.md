@@ -17,7 +17,7 @@
 - 🎓 Pre-final year Computer Science student at Nirma University
 - 💻 Competitive Programmer with a passion for problem-solving and algorithms
 - 🌱 Currently exploring new technologies and working on personal projects
-- 🎯 Codeforces <span style="color:cyan">Specialist</span> <b>|</b>  Codechef <span style="color:purple">4⭐</span>
+- 🎯 Codeforces Specialist <b>|</b> Codechef 4⭐</span>
 - 💡 Always eager to learn and grow
 
 ### 🛠️ Tech Stack
@@ -34,10 +34,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/render/render-original.svg" title="Render" alt="Render" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </p>
 
@@ -52,9 +51,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenilsoni01&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenilsoni01&theme=radical" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenilsoni01&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jenilsoni01&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenilsoni01&theme=radical" alt="GitHub Streak" height="180"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenilsoni01&layout=compact&theme=radical" alt="Top Languages" height="180"/><br>
 </div>
 
 ### 📈 Activity Graph
